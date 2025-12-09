@@ -13,4 +13,4 @@ def get_grade(score):
 
 scores = [95, 45, 78, 82, 60]
 for s in scores:
-    print(s, get_grade(s))
+    print(get_grade(s))
